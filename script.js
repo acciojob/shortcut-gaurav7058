@@ -4,7 +4,7 @@ function shortcut(s1, s2) {
 		return ''
 	}
 	let result=s1[0]+s2[0];
-	result=result.toUpperCase();
+	// result=result.toUpperCase();
 	return result
 }
 
